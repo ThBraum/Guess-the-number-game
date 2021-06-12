@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623293075 source:c:\users\mathe\onedrive\Área de trabalho\codes\c++\inicialtests\main.cpp
+	<iostream>
+	<ctime>
+	<locale.h>
+	<conio.h>
+	<cstdio>
+
